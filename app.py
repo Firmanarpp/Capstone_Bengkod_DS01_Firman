@@ -12,7 +12,7 @@ warnings.filterwarnings("ignore")
 
 # --- Konfigurasi Halaman Streamlit ---
 st.set_page_config(
-    page_title="AI Health Analyzer - Prediksi Obesitas",
+    page_title="AI Health Analyzer - Prediksi  Tingkat Obesitas",
     page_icon="🏃‍♂️",
     layout="wide",
     initial_sidebar_state="expanded",
