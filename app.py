@@ -1196,7 +1196,7 @@ def main():
                 
                 **Optimasi:**
                 - SMOTE untuk handle imbalance
-                - GridSearchCV untuk hyperparameter tuning
+                - RandomizedSearchCV untuk hyperparameter tuning
                 - Cross-validation 5-fold
                 
                 **Hasil Akhir:**
